@@ -1,0 +1,36 @@
+
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('../font/PretendardVariable.woff2') format('opentype');
+    font-style: normal;
+    font-weight: normal; 
+        }
+
+@font-face {
+    font-family: 'NewCezanne';
+    src: url('../font/FOT-NewCezanne\ Pro\ M.otf') format('opentype');
+    font-style: normal;
+    font-weight: normal; 
+        }
+
+@font-face {
+    font-family: 'NeueHaasB';
+    src: url('../font/NeueHaasDisplayBlack.woff2') format('woff2');
+    font-style: normal;
+    font-weight: normal; 
+        }
+@font-face {
+    font-family: 'NeueHaasM';
+    src: url('../font/NeueHaasDisplayMediu.woff2') format('woff2');
+    font-style: normal;
+    font-weight: normal; 
+        }
+
+
+
+    @font-face {
+        font-family: "iconfont";
+        src: url(../font/iconfont.woff2) format('woff2');
+        font-weight: normal;
+    }

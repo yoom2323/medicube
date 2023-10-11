@@ -1,0 +1,27 @@
+:root {
+    --font-en: 'NeueHaasM', sans-serif;
+    --font-jp: 'NewCezanne', sans-serif;
+    --font-pr: 'Pretendard', sans-serif;
+}
+
+*{margin:0;padding:0;font:inherit;color:inherit;}
+*, :after, :before {box-sizing:border-box;flex-shrink:0;}
+html, body {height:100%; line-height: 1;}
+img, picture, video, canvas, svg {display: block;max-width:100%;}
+button {background:none;border:0;cursor:pointer;}
+a {text-decoration:none}
+table {border-collapse:collapse;border-spacing:0}
+ul {
+    list-style: none;
+}
+
+body {
+    font-family: var(--font-pr);
+    color: #1a1a1a;
+    font-size: 16px;
+
+    overscroll-behavior: none;
+    scroll-behavior: auto;
+
+    
+}

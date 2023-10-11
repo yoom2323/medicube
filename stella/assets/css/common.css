@@ -1,0 +1,20 @@
+
+.blind {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    margin: -1px;
+}
+
+.hidden{
+    overflow: hidden;
+}
+
+
+.inner{
+    width: 1440px;
+    padding: 0 114px;
+    margin: 0 auto;
+}
