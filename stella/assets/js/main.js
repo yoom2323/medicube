@@ -4,9 +4,9 @@ $(function(){
 		window.scrollTo(0, 0);
 	};
 
-    $('.menu-btn').click(function(e){
-        $('.menu-btn,.menu-page').toggleClass('on')
-        $('body').toggleClass('hidden')
+    $('.gnb-menu .menu-btn').click(function(e){
+        $('.menu-btn,.menu-page').toggleClass('on');
+        $('body').toggleClass('hidden');
     })
 
 
